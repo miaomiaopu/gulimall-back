@@ -3,9 +3,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>top.yzcam</groupId>
-    <artifactId>gulimall</artifactId>
+    <artifactId>gulimall-back</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gulimall</name>
+    <name>gulimall-back</name>
     <description>gulimall 聚合服务</description>
     <packaging>pom</packaging>
 
